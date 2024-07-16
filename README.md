@@ -1,2 +1,2 @@
-# dartboard
-Code for Dartboard paper.
+# Dartboard
+Code for our Dartboard paper.
