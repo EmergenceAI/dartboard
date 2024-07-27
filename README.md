@@ -1,9 +1,19 @@
 # Dartboard
 Code for our Dartboard paper.
 
-To run, simply
+Install requirements.
 ```
 pip3 install -r requirements.txt
-python3 -m main
 ```
 
+To run end to end eval:
+```
+cd end2end
+python3 -m do_eval
+```
+
+Or to run retrieval eval.
+```
+cd retrieval
+python3 -m do_eval
+```
